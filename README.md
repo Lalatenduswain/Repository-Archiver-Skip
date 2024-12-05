@@ -37,7 +37,7 @@ Additionally, you'll need to set up your **GitHub personal access token** (`GIT_
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Lalatenduswain/Skip-Repository-Archiver.git
+   git clone https://github.com/Lalatenduswain/Repository-Archiver-Skip.git
    cd Skip-Repository-Archiver
    ```
 
